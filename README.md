@@ -20,8 +20,8 @@
 * Bootstrap
 
 ## To Deploy:
-1. Download zip and extract
-2. Open the Asp.NET solution in Visual Studio, Run a Nuget Package restore on the solution and launch it with IIS Express
+1. Download the zip and extract
+2. Open the Asp.NET solution in Visual Studio, Run a [Nuget Package Restore](https://docs.microsoft.com/en-us/nuget/consume-packages/package-restore) on the solution and launch it with IIS Express
 3. Run 'npm install' in the frontend directory to install the node modules
 4. Run 'npm start' in the frontend directory to start the spa
 5. (Seperatly) run 'npm test' to run unit tests
