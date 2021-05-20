@@ -1,0 +1,7 @@
+C:\Users\Emily\source\repos\PokerHandsBackend\HandEvaluator\bin\Debug\HandEvaluator.XML
+C:\Users\Emily\source\repos\PokerHandsBackend\HandEvaluator\bin\Debug\HandEvaluator.dll
+C:\Users\Emily\source\repos\PokerHandsBackend\HandEvaluator\bin\Debug\HandEvaluator.pdb
+C:\Users\Emily\source\repos\PokerHandsBackend\HandEvaluator\obj\Debug\HandEvaluator.csprojAssemblyReference.cache
+C:\Users\Emily\source\repos\PokerHandsBackend\HandEvaluator\obj\Debug\HandEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\Emily\source\repos\PokerHandsBackend\HandEvaluator\obj\Debug\HandEvaluator.dll
+C:\Users\Emily\source\repos\PokerHandsBackend\HandEvaluator\obj\Debug\HandEvaluator.pdb
